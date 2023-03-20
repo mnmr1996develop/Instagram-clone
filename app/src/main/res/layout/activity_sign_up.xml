@@ -148,5 +148,25 @@
             android:onClick="helloWorldTapped"
             android:text="@string/sign_up"
             android:textColor="@color/black" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/already_have_an_account"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/signUpLoginButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:layout_margin="20dp"
+            android:backgroundTint="#3cdfff"
+            android:onClick="helloWorldTapped"
+            android:text="@string/login"
+            android:textColor="@color/black" />
     </LinearLayout>
 </ScrollView>

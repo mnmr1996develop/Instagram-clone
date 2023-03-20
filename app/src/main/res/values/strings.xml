@@ -9,4 +9,6 @@
     <string name="sign_up">Sign Up</string>
     <string name="Services">People who use our service may have uploaded your contact information to Instagram. Learn More</string>
     <string name="terms_policy">By signing up, you agree to our Terms , Privacy Policy and Cookies Policy .</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="login">Login</string>
 </resources>
